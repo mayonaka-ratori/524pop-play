@@ -1,4 +1,4 @@
-import{a as e,n as t}from"./resolve-BO85lccX.js";import{t as n}from"./layout-fyf8MEJr.js";import{n as r,t as i}from"./fixtures-DhTDZDPt.js";var a=`
+import"./modulepreload-polyfill-P2Xu9kJm.js";import{r as e}from"./board-DL74Gdkl.js";import{n as t}from"./resolve-11y2Hogg.js";import{t as n}from"./layout-fyf8MEJr.js";import{n as r,t as i}from"./fixtures-DvJuHZdP.js";var a=`
   <section class="layout-lab" aria-labelledby="layout-heading">
     <p class="eyebrow">LAYOUT HARNESS / 顔と操作の余裕を確認する</p>
     <h2 id="layout-heading">画面サイズを試す</h2>

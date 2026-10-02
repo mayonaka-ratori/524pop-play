@@ -3,6 +3,8 @@
 [ゲームで遊ぶ](https://mayonaka-ratori.github.io/524pop-play/)
 
 ブラウザで遊べる、ゆっくり・ぽんぽんの2モードのパズルです。
+
+同じ524たちの新しいゲーム: [524スリング！](https://mayonaka-ratori.github.io/524pop-play/sling.html)、[はい、チーズ！](https://mayonaka-ratori.github.io/524pop-play/cheese.html)
 このリポジトリは配信用のビルド済みファイルを保存しています。
 
 ## BGM
