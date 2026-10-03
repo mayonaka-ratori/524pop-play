@@ -90,7 +90,7 @@ import"./modulepreload-polyfill-P2Xu9kJm.js";import{a as e,i as t,n,o as r,r as 
     <div class="title-block"><h1 class="sling-title"><span>524</span> スリング！</h1><span class="stage-name"></span></div>
     <span class="stage-badge">ポン</span><div class="shot-dots" aria-label="残り7発"></div>
   </header>
-  <div class="arena-wrap"><div class="arena" tabindex="0" aria-label="引っぱってはなすフィールド。矢印キーで方向、1から3で強さ、Spaceではじく。">
+  <div class="arena-space"><div class="arena-wrap"><div class="arena" tabindex="0" aria-label="引っぱってはなすフィールド。矢印キーで方向、1から3で強さ、Spaceではじく。">
     <i class="rail-pad is-top"></i><i class="rail-pad is-left"></i><i class="rail-pad is-right"></i><i class="rail-pad is-bottom"></i>
     <svg class="floor-layer" viewBox="0 0 350 620" preserveAspectRatio="none" aria-hidden="true"></svg>
     <svg class="trail-layer" viewBox="0 0 350 620" preserveAspectRatio="none" aria-hidden="true"><defs><linearGradient id="sling-trail-rainbow" gradientUnits="userSpaceOnUse"><stop stop-color="#F7D83D"/><stop offset=".2" stop-color="#FF9D55"/><stop offset=".4" stop-color="#FF6B86"/><stop offset=".6" stop-color="#B18BE9"/><stop offset=".8" stop-color="#4AA6F8"/><stop offset="1" stop-color="#55C98B"/></linearGradient></defs><polyline class="shot-trail" fill="none" stroke-linecap="round"/></svg>
@@ -98,7 +98,7 @@ import"./modulepreload-polyfill-P2Xu9kJm.js";import{a as e,i as t,n,o as r,r as 
     <svg class="aim-layer" viewBox="0 0 350 620" preserveAspectRatio="none" aria-hidden="true"></svg>
     <div class="hit-counter" aria-hidden="true"></div><div class="arena-message" aria-hidden="true"></div>
     <div class="cutin" hidden aria-hidden="true"></div><div class="power-indicator" hidden></div>
-  </div></div>
+  </div></div></div>
   <nav class="party-bar" aria-label="仲間4匹"></nav>
   <footer class="sling-footer"><div class="footer-info"><span class="run-status"></span><span class="instruction">どこからでも、引っぱってはなす</span></div><button class="help-button sling-control" aria-label="遊び方">？</button></footer>
   <p class="sling-live sr-only" role="status" aria-live="polite"></p>
