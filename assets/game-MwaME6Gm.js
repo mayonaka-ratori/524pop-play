@@ -18,7 +18,7 @@ import"./modulepreload-polyfill-P2Xu9kJm.js";import{n as e,r as t,t as n}from"./
     <div class="title-tools"><button data-help>遊び方</button><button data-settings>設定</button></div>
     <details class="series-links"><summary>ほかの５２４ゲーム</summary><nav aria-label="５２４ゲームシリーズ">
       <a href="/524pop-play/sling.html">524スリング！</a><a href="/524pop-play/cheese.html">５２４でパシャリ！</a>
-      <a href="/524pop-play/bunbetsu.html">分別５２４</a><a href="/524pop-play/homerun.html">５２４ホームラン！</a><a href="/524pop-play/magirekomi.html">５２４まぎれこみ！</a>
+      <a href="/524pop-play/bunbetsu.html">分別５２４</a><a href="/524pop-play/homerun.html">５２４ホームラン！</a><a href="/524pop-play/magirekomi.html">５２４まぎれこみ！</a><a href="/524pop-play/eight-524.html">８番５２４</a>
     </nav></details>
     <a class="lab-link" href="/524pop-play/lab.html">制作ノートと画面モック ↗</a>
   </main>`,Je(),R.querySelectorAll(`[data-mode]`).forEach(e=>{e.onclick=()=>Y(e.dataset.mode)}),R.querySelector(`[data-help]`).onclick=()=>Tt(),R.querySelector(`[data-settings]`).onclick=Ct,R.querySelector(`[data-lessons]`).onclick=ot}function at(){let e=new URLSearchParams(location.search).get(`seed`);return e!==null&&/^\d{1,10}$/.test(e)&&Number(e)<=4294967295?Number(e):crypto.getRandomValues(new Uint32Array(1))[0]}function ot(){it(),R.innerHTML=`<main class="lesson-list"><p class="eyebrow">好きなところから、ひと置き。</p><h1>ちょっと練習</h1>${n(`practice`,e=>s(e,u.settings.assist))}
