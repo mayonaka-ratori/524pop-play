@@ -4,7 +4,7 @@
 
 ブラウザで遊べる、ゆっくり・ぽんぽんの2モードのパズルです。
 
-同じ524たちの新しいゲーム: [524スリング！](https://mayonaka-ratori.github.io/524pop-play/sling.html)、[５２４でパシャリ！](https://mayonaka-ratori.github.io/524pop-play/cheese.html)、[分別５２４](https://mayonaka-ratori.github.io/524pop-play/bunbetsu.html)、[５２４ホームラン！](https://mayonaka-ratori.github.io/524pop-play/homerun.html)
+同じ524たちの新しいゲーム: [524スリング！](https://mayonaka-ratori.github.io/524pop-play/sling.html)、[５２４でパシャリ！](https://mayonaka-ratori.github.io/524pop-play/cheese.html)、[分別５２４](https://mayonaka-ratori.github.io/524pop-play/bunbetsu.html)、[５２４ホームラン！](https://mayonaka-ratori.github.io/524pop-play/homerun.html)、[５２４まぎれこみ！](https://mayonaka-ratori.github.io/524pop-play/magirekomi.html)
 このリポジトリは配信用のビルド済みファイルを保存しています。
 
 ## BGM
